@@ -1,3 +1,5 @@
 A Social media app for all devices and operating systems that will be exclusive just for college and university students.
+
 The app will promote interaction among students and would promote study related materials.
+
 So the students can access all the essential information related study,University services and many other things.
